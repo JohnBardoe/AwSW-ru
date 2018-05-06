@@ -4,19 +4,19 @@
 translate russiantl zhong_05bfcd47:
 
     # c "(Where is he?)"
-    c ""
+    c "(Где он?)"
 
 # game/xzhong.rpy:29
 translate russiantl zhong_1c061384:
 
     # c "Anybody here?"
-    c ""
+    c "Тут кто-нибудь есть?"
 
 # game/xzhong.rpy:33
 translate russiantl zhong_6a6f7d2a:
 
     # c "There you are."
-    c ""
+    c "На."
 
 # game/xzhong.rpy:53
 translate russiantl _call_skiptut_31_0ff5f677:
@@ -34,7 +34,7 @@ translate russiantl _call_skiptut_31_eee83226:
 translate russiantl _call_skiptut_31_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s ""
+    s "Выходит, вы это уже видели раньше. Можете просмотреть это еще раз, или мы можем не терять время и просто пропустить до конца сцены."
 
 # game/xzhong.rpy:83
 translate russiantl _call_skiptut_31_0054b77b:
